@@ -1,0 +1,8 @@
+[submodule "QbCircBuffer"]
+	path = QbCircBuffer
+	url = git@github.com:abaquesoftware/QbCircBuffer.git
+	branch = main
+[submodule "QbPreAllocStack"]
+	path = QbPreAllocStack
+	url = git@github.com:abaquesoftware/QbPreAllocStack.git
+	branch = main
